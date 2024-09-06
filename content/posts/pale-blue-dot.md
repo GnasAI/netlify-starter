@@ -1,62 +1,36 @@
 ---
-title: Pale Blue Dot
-date: 2021-03-06
+title: Đóng một phần cầu Rạch Miễu trong 19 đêm để sửa chữa
+date: 2024-09-06 15:13
 tags:
-  - space
-  - earth
-  - "2022"
+  - tin-tức
 social_image: /media/rocket.jpg
-description: This is a custom description for SEO and Open Graph purposes. If
-  it's not provided, it defaults to auto-generated excerpts of the page content.
+description: Từ ngày 10 đến 28/9, đơn vị thi công sẽ đóng một chiều cầu Rạch
+  Miễu (Bến Tre - Tiền Giang) vào ban đêm để sửa chữa mặt đường bị xuống cấp.
 ---
+<!--StartFragment-->
 
-Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam.
+Thông tin được Công ty TNHH BOT Cầu Rạch Miễu cho biết ngày 6/9. Giai đoạn 1, đóng cầu hướng từ Tiền Giang đi Bến Tre từ 22h đến 4h hôm sau. Đoạn đường cần sửa chữa ở chiều này dài 450 m, dự kiến hoàn thành sau 5 ngày. Sau đó, hướng cầu từ Bến Tre đi Tiền Giang sẽ bị cấm, đoạn cần sửa khoảng 350 m, dự kiến xong trong 14 ngày.
 
-The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
+<!--EndFragment-->
 
-Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+![Cầu Rạch Miễu thường xuyên quá tải, nhất là dịp lễ Tết. Ảnh: Hoàng Nam](/media/ketxe.jpg "Cầu Rạch Miễu thường xuyên quá tải, nhất là dịp lễ Tết. Ảnh: Hoàng Nam")
 
-The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+<!--StartFragment-->
 
-It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known. - Carl Sagan
+Cảnh sát giao thông sẽ phân luồng luân phiên cho xe chạy ở mỗi hướng trong khoảng 15 phút, đồng thời đặt các biển chỉ dẫn, biển báo cấm tại khu vực đường dẫn hai đầu cầu để tài xế nắm. Nếu xe quá đông, đơn vị chức năng sẽ linh hoạt điều chỉnh thời gian. Ôtô sẽ được điều tiết đi theo hướng bến phà tạm cách đó 10 km để tránh ùn tắc.
 
-## Image
+Sau khi sửa xong khu vực cầu Rạch Miễu, lực lượng chức năng sẽ cấm một chiều tương tự để sửa khe co giãn cầu Rạch Chuối trong 14 ngày. Riêng tại khu vực trạm thu phí BOT cầu Rạch Miễu, xe sẽ được phân luồng đi theo làn thu phí tự động hoặc hỗn hợp để sửa mặt đường, dự kiến mất khoảng 45 ngày.
 
-![Rocket launch](/media/rocket.jpg)
+<!--EndFragment-->
 
-## Header
+![Vị trí cầu Rạch Miễu 1 và 2. Đồ họa: Khánh Hoàng](/media/bando.jpg "Vị trí cầu Rạch Miễu 1 và 2. Đồ họa: Khánh Hoàng")
 
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
+<!--StartFragment-->
 
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
+Cầu Rạch Miễu tổng chiều dài hơn 8,3 km gồm cả đường dẫn thường xuyên bị ùn tắc, nhất là dịp lễ Tết. Hiện mỗi ngày có khoảng 20.000 lượt xe qua cầu, vượt gấp ba lần thiết kế cho phép của công trình. Sau 15 năm khai thác, cùng với ảnh hưởng thời tiết đã khiến nhiều vị trí trên mặt cầu bị vệt lún bánh xe, nứt, chảy nhựa.
 
-## Unordered Lists
+Ngoài cầu Rạch Miễu, khe co giãn trên cầu Rạch Chuối (nối cầu Rạch Miễu với trạm thu phí trên quốc lộ 60) cùng mặt đường khu vực trạm thu phí cũng bị hư hỏng, bong tróc nặng.
 
-- Item 1
-- Item 2
-- Item 3
+Cách đó 3,8 km, cầu Rạch Miễu 2 tổng vốn đầu tư 6.810 tỷ đồng đang được gấp rút thi công, dự kiến hoàn thành vào tháng 9 năm sau để "chia lửa" cho cầu hiện hữu
 
-## Ordered Lists
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-## Code Block
-
-```javascript
-// finds a given word in a string and replace with another one
-const findAndReplace = (string, wordToFind, wordToReplace) => {
-  return string.split(wordToFind).join(wordToReplace);
-};
-
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
-```
-
-## Quoted Text
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+<!--EndFragment-->
