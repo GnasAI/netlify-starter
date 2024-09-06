@@ -1,50 +1,39 @@
 ---
-title: Magnificent Desolation
-date: 2021-02-22
-tags: [space, nasa]
-social_image: '/media/rocket.jpg'
-description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
+title: Mặt biến dạng sau liệu trình trị mụn giá 20 triệu đồng
+date: 2024-09-06 14:55
+tags:
+  - sức-khỏe
+social_image: /media/suckhoe.jpg
+description: Hà Nội-Sau khi dùng bộ sản phẩm trị mụn mua trên mạng, mặt cô gái
+  21 tuổi mặt sưng phù, mụn viêm chảy mủ, bác sĩ chẩn đoán biến chứng nhiễm
+  trùng.
 ---
+<!--StartFragment-->
 
-I believe that space travel will one day become as common as airline travel is today. I’m convinced, however, that the true future of space travel does not lie with government agencies — NASA is still obsessed with the idea that the primary purpose of the space program is science — but real progress will come from private companies competing to provide the ultimate adventure ride, and NASA will receive the trickle-down benefits. - Buzz Aldrin
+Ngày 6/9, bác sĩ Nguyễn Tiến Thành, Hội Da liễu Việt Nam, cho biết cô gái bị mụn trứng cá khắp mặt từ năm 15 tuổi, đã dùng nhiều loại thuốc nhưng không đỡ.
 
-## Image
+"Em thử qua các mẹo như rửa mặt bằng nước vo gạo, nước chanh, nước vôi pha loãng, nước lá trà xanh hay chấm mụn bằng kem đánh răng, đi ra spa nặn mụn hàng chục lần..., nhưng tình trạng càng nặng hơn", bệnh nhân nói.
 
-![Rocket launch](/media/rocket.jpg)
+Một tuần trước, cô được người quen giới thiệu và mua bộ sản phẩm bôi trị mụn với quảng cáo "hết sạch sau 7 ngày", giá trị 20 triệu đồng. Tuy nhiên, sau khi bôi được ba ngày, khuôn mặt người bệnh biến chứng nặng.
 
-## Header
+Bác sĩ Thành chẩn đoán người bệnh bị mụn trứng cá mức độ nặng, viêm da tiếp xúc kích ứng do sử dụng sẩn phẩm bôi thoa không đúng cách. Bệnh nhân được tư vấn dừng ngay sản phẩm đang bôi, sau đó làm dịu da, phục hồi bằng chăm sóc tại chỗ...
 
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
+<!--EndFragment-->
 
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
+![Bác sĩ thăm khám cho một bệnh nhân. Ảnh: Bác sĩ cung cấp](/media/suckhoe.jpg "Bác sĩ thăm khám cho một bệnh nhân. Ảnh: Bác sĩ cung cấp")
 
-## Unordered Lists
+<!--StartFragment-->
 
-- Item 1
-- Item 2
-- Item 3
+Hiện nhiều chị em tin theo quảng cáo, chọn mua mỹ phẩm không rõ nguồn gốc, kem trộn có chứa corticoid hoặc sản phẩm gây bong tróc. Chúng được quảng cáo là triệt tiêu mụn, sáng da "thần tốc", nhưng chỉ sau thời gian ngắn, vùng da sẽ xuất hiện nhiều trứng cá, mỏng, giãn mạch dễ nổi mẩn ngứa. Khi ngừng sử dụng sẽ bị sưng nề, xuất hiện mụn mủ, trứng cá bùng phát.
 
-## Ordered Lists
+Bác sĩ tiếp nhận khoảng 600 ca điều trị mụn trứng cá mỗi tháng, chủ yếu học sinh, sinh viên, trong đó khoảng 50% bị mụn nặng do tự điều trị bằng những phương pháp được tìm hiểu trên mạng. Nhiều trường hợp dùng corticoid dài ngày khiến làn da bị tổn thương - nhiễm độc.
 
-1. Item 1
-2. Item 2
-3. Item 3
+Mụn trứng cá thường xuất hiện ở tuổi dậy thì do thay đổi nội tiết tố (hormone giới tính androgen gia tăng), ảnh hưởng khoảng 95% thanh thiếu niên. Nhiều người bị mụn trứng cá kéo dài khi trưởng thành. Tỷ lệ nữ giới xuất hiện tình trạng này cao hơn nam giới do đặc trưng mang thai, mãn kinh và dễ rối loạn nội tiết.
 
-## Code Block
+Sai lầm thường gặp nhất của người bệnh là tự nặn mụn, dùng tay hoặc dụng cụ nặn mụn không được vô khuẩn dễ gây nhiễm trùng da, áp xe hóa. Nguy hiểm hơn, nếu tự nặn mụn ở vùng cấm chữ T (trán, mũi, cằm, miệng) - nơi có nhiều mạch máu, dây thần kinh vùng sọ não có thể gây phù, sưng mắt, méo mặt, thậm chí viêm tắc tĩnh mạch xoang hang não gây hôn mê, nguy hiểm tính mạng.
 
-```javascript
-// finds a given word in a string and replace with another one
-const findAndReplace = (string, wordToFind, wordToReplace) => {
-  return string.split(wordToFind).join(wordToReplace);
-};
+Mạng xã hội lan truyền các mẹo dân gian như bôi kem đánh răng, đắp lá trầu không, thoa nước chanh, đắp nha đam, lòng trắng trứng, tắm biển hoặc uống thuốc bổ gan, dùng thuốc đông y... để trị mụn, nhưng chưa có các chứng cứ khoa học nào chứng minh tác dụng của các mẹo này.
 
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
-```
+Để điều trị mụn tốt nhất, nên đến khám và chữa trị ở bác sĩ chuyên khoa da liễu. Bạn cũng cần quan tâm chăm sóc da đúng cách, rửa mặt hai lần mỗi ngày vào buổi sáng và tối bằng nước muối loãng, nước muối sinh lý hoặc sữa rửa mặt dịu nhẹ, không chứa xà phòng; không nặn mụn, sờ tay lên mặt...
 
-## Quoted Text
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+<!--EndFragment-->
