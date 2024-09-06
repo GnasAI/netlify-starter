@@ -15,6 +15,8 @@ VN-Index đã có phiên giảm điểm thứ hai liên tiếp với [thanh kho
 
 <!--EndFragment-->
 
+![nhà đầu tư](/media/ck.jpg "nhà đầu tư")
+
 <!--StartFragment-->
 
 Ngoài ra, xu hướng thị trường trong nước còn sẽ bị tác động phần nào bởi xu hướng chung của chứng khoán thế giới. Bên cạnh đó, sự phân hoá sẽ diễn ra theo dự báo kết quả kinh doanh quý III của từng doanh nghiệp và nhóm ngành.
