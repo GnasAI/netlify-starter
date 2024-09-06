@@ -1,52 +1,38 @@
 ---
-title: She shut one door! With her mind!
-date: 2021-06-12
-tags: [stranger things, tv series]
-social_image: '/media/rocket.jpg'
-description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
+title: Áp lực bán gia tăng trên thị trường chứng khoán
+date: 2024-09-06 15:21
+tags:
+  - chứng-khoán
+social_image: /media/ck.jpg
+description: Áp lực bán lớn dần trên thị trường chứng khoán, tuy nhiên xu hướng
+  tăng vẫn chưa bị ảnh hưởng.
 ---
+<!--StartFragment-->
 
-She shut one door! With her mind! You’re pretty cute, you know that? You are such a nerd. No wonder you only hang out with boys. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?It’s about the shadow monster, isn’t it? Friends don't lie. Hey kiddo, would you like a balloon? No... no El, you're not the monster. You saved me. Do you understand? You saved me. I need my paddles! This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone.Yeah, I want a date with Bo Derek. We all want things. Nancy, seriously, you're gonna be so cool now, it's ridiculous. Friends don't lie. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?
+VN-Index đã có phiên giảm điểm thứ hai liên tiếp với [thanh khoản](https://laodong.vn/kinh-doanh/dong-tien-gia-tang-thi-truong-chung-khoan-se-but-pha-1386994.ldo "thanh khoản") nhích nhẹ, nhưng vẫn chưa có sự bùng nổ, khi khối lượng khớp lệnh trên HSX tương đương với mức trung bình 20 phiên.
 
-Why’s he gotta kick the door?Let’s burn that lab to the ground. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You shouldn't like things because people tell you you're supposed to. You’re pretty cute, you know that? Why are you keeping this curiosity door lock?Why are you keeping this curiosity door lock? Do you know anything about sensory deprivation tanks? Specifically how to build one? She shut one door! With her mind! Why do we even need weapons anyway? We have her. She shut one door! With her mind! If anyone asks where I am, I've left the country.
+[Nhà đầu tư ngoại](https://laodong.vn/kinh-doanh/ap-luc-ban-rong-cua-khoi-ngoai-van-chua-giam-1387448.ldo "Nhà đầu tư ngoại") vẫn duy trì trạng thái bán ròng mạnh mẽ hàng trăm tỉ đồng và bất ngờ giao dịch tăng đột biến trong phiên ngày hôm qua (5.9), do đóng góp của thỏa thuận cổ phiếu MBB.
 
-## Image
+<!--EndFragment-->
 
-![Rocket launch](/media/rocket.jpg)
+<!--StartFragment-->
 
-## Header
+Ngoài ra, xu hướng thị trường trong nước còn sẽ bị tác động phần nào bởi xu hướng chung của chứng khoán thế giới. Bên cạnh đó, sự phân hoá sẽ diễn ra theo dự báo kết quả kinh doanh quý III của từng doanh nghiệp và nhóm ngành.
 
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
+Tuy nhiên cũng có quan điểm cho rằng nhịp điều chỉnh này chỉ là ngắn hạn. Thị trường vẫn có nhiều yếu tố hỗ trợ cho mục tiêu chinh phục mốc 1.300 điểm.
 
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
+Thứ nhất, việc hạ lãi suất sẽ thúc đẩy tăng trưởng là một trong những lựa chọn ưu tiên, đây cũng có thể coi là chất xúc tác khiến doanh thu của các doanh nghiệp niêm yết có triển vọng tăng trưởng tốt hơn. Xu hướng tăng điểm của thị trường chứng khoán trở nên rõ ràng hơn.
 
-## Unordered Lists
+Thứ hai, các nhóm cổ phiếu lớn đã có mức bật tăng tốt kể từ khi thị trường chạm đáy điều chỉnh khu vực 1.200 -1.220 điểm. Các cổ phiếu lớn thuộc các lĩnh vực tăng trưởng như công nghệ viễn thông hay các nhóm cổ phiếu đầu ngành lĩnh vực tiện ích, ngân hàng, chứng khoán, bán lẻ, tiêu dùng… đã có phục hồi ấn tượng. Nếu nhóm này không tăng giá thì khó có thể nói là thị trường sẽ sớm quay lại đỉnh cũ và vượt qua.
 
-- Item 1
-- Item 2
-- Item 3
+<!--EndFragment-->
 
-## Ordered Lists
+<!--StartFragment-->
 
-1. Item 1
-2. Item 2
-3. Item 3
+Các chuyên gia của Công ty Chứng khoán VCBS đưa ra khuyến nghị, mặc dù thị trường tiếp tục xuất hiện diễn biến điều chỉnh, tuy nhiên áp lực chưa quá lớn và lực cầu vẫn có sự hiện hữu.
 
-## Code Block
+Nhà đầu tư giữ tâm lý bình tĩnh trong giai đoạn này, tiếp tục duy trì tỉ trọng cổ phiếu và danh mục hiện tại, theo dõi sát diễn biến thị trường, chờ đợi những tín hiệu rõ ràng hơn để có thể giải ngân mua cổ phiếu với giá chiết khấu tốt trong những phiên rung lắc.
 
-```javascript
-// finds a given word in a string and replace with another one
-const findAndReplace = (string, wordToFind, wordToReplace) => {
-  return string.split(wordToFind).join(wordToReplace);
-};
+Công ty Chứng khoán SHS nhận định, VN-Index ở vùng giá 1.250-1.255 điểm là tương đối hợp lý đối với triển vọng tăng trưởng của thị trường; đây cũng là hỗ trợ mạnh về kỹ thuật khi các vùng giá trung bình đang hội tụ. Thị trường có thể phân hóa mạnh trong vùng giá này dựa vào kỳ vọng tăng trưởng kết quả kinh doanh quý III/2024, phục hồi trở lại để duy trì xu hướng tích lũy trung hạn tích cực.
 
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
-```
-
-## Quoted Text
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+<!--EndFragment-->
